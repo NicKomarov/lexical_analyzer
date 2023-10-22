@@ -1,0 +1,24 @@
+// This is a JavaScript program
+// It calculates the sum of two numbers
+
+// Declare some variables
+const num1 = 10; // Decimal number
+const num2 = 3.14; // Floating-point number
+const hexNum = 0x1A; // Hexadecimal number
+
+// String constants
+const greeting = "Hello";
+const firstLetter = 'H';
+
+// Reserved Words
+const ifStatement = true; // "const" is a reserved word
+let functionVariable = function() {}; // "function" is a reserved word
+
+// Operators
+let sum = num1 + num2;
+console.log(greeting);
+console.log(sum);
+
+// Identifiers
+let variableName = "ThisIsAVariable"; // variableName is an identifier
+let myObject = {}; // myObject is an identifier
